@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+header {
+  font-size: 4em;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  border: 5px solid #696969;
+}
+
+td {
+  border: 2px solid #696969;
+  height: 25px;
+  width: 25px;
+}
